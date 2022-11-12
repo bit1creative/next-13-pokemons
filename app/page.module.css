@@ -144,3 +144,12 @@
     filter: invert(1);
   }
 }
+
+.pokemonTitle {
+  font-size: 40px;
+  margin: 20px 0;
+}
+
+.pokemonName {
+  margin: 10px 0;
+}
