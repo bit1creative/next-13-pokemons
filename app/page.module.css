@@ -144,3 +144,12 @@
     filter: invert(1);
   }
 }
+
+.pokemonLink {
+  margin: 10px 0;
+}
+
+.pokemonSearch {
+  padding: 10px 20px;
+  margin: 10px 0;
+}
